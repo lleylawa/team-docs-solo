@@ -10,10 +10,18 @@ Meerim
 ## Стек технологий
 - Kubernetes
 - AWS
-
+- Linux
+- Docker
 
 ## Инструкции по запуску
 1. Установить kubectl
 2. Подключиться к кластеру
 3. Запустить kubectl apply -f deployment.yaml
+
+
+## Инструкции по запуску
+1. Установить Docker
+2. Клонировать репозиторий
+3. Запустить docker build .
+>>>>>>> main
 
